@@ -132,4 +132,5 @@ inventory.forEach(car => {
     BMWAndAudi.push(car);
   }
 })
-console.log(BMWAndAudi);
+// console.log(BMWAndAudi);
+console.log(JSON.stringify(BMWAndAudi));
